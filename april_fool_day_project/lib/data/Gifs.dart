@@ -1,0 +1,36 @@
+class Gifs {
+  Gifs._();
+  static const gifs_path = [
+    "http://andiwiniosapps.in/april_fool/gifs/1.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/2.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/3.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/4.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/5.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/6.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/7.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/8.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/9.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/10.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/11.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/12.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/13.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/14.gif",
+    //"http://andiwiniosapps.in/april_fool/gifs/15.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/16.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/17.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/18.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/19.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/20.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/21.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/22.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/23.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/24.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/25.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/26.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/27.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/28.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/29.gif",
+    "http://andiwiniosapps.in/april_fool/gifs/30.gif",
+ 
+  ];
+}
